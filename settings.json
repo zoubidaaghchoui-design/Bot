@@ -1,26 +1,26 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "M__ou__aa__d__c", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "Mouaad2010.aternos.me", 
+    "port": 56180,   
     "version": "1.12.1"   
   },
 
   "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "enabled": true,
+    "x": 100000000,
+    "y": 100,
+    "z": 100000000
   },
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": ""
     },
 
@@ -35,14 +35,13 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
-        "I Like to Play Minecraft!"
+        "I LOVE MINECRAFT",
+        "HI"
       ]
     },
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 100
   }
 }
